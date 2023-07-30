@@ -1,0 +1,108 @@
+[
+  {
+    "useH2": false,
+    "startTime": 1689502091799,
+    "id": "1689502091799-718",
+    "url": "https://proxy.finance.qq.com/cgi/cgi-bin/login/weixin/login?code=0818Eh100r4ZlQ1AJE300SmN3c48Eh1N&_appName=android&_dev=2112123AC&_devId=6b9371ae0609275c416282857db28b60d3243c1d&_mid=6b9371ae0609275c416282857db28b60d3243c1d&_md5mid=A5E449109D0EC4D4D4D08472D15D190D&_appver=10.5.0&_ifChId=76&_screenW=1080&_screenH=2183&_osVer=12&_ui=B2FD4BA4BE6D889D&_uin=10000&_wxuin=20000&_net=WIFI&__random_suffix=24060&_buildtype=debug&buildtime=2022-09-30+14%3A42%3A16&lang=zh_CN",
+    "req": {
+      "method": "GET",
+      "httpVersion": "1.1",
+      "ip": "192.168.31.59",
+      "port": "40416",
+      "rawHeaderNames": {
+        "connection": "Connection",
+        "proxy-authorization": "Proxy-Authorization"
+      },
+      "headers": {
+        "host": "proxy.finance.qq.com",
+        "cookie": "tgw_l7_route=8dc6a701eb0c594c576c12e0d39d3684;",
+        "referer": "http://zixuanguapp.finance.qq.com",
+        "accept-encoding": "gzip",
+        "user-agent": "okhttp/3.12.13",
+        "connection": "close"
+      },
+      "size": 0,
+      "body": ""
+    },
+    "res": {
+      "ip": "183.47.125.78",
+      "port": 443,
+      "rawHeaderNames": {
+        "date": "Date",
+        "content-type": "Content-Type",
+        "content-length": "Content-Length",
+        "connection": "Connection",
+        "server": "Server",
+        "x-client-ip": "X-Client-Ip"
+      },
+      "statusCode": 200,
+      "statusMessage": "OK",
+      "headers": {
+        "date": "Sun, 16 Jul 2023 10:08:12 GMT",
+        "content-type": "application/json; charset=utf-8",
+        "content-length": "312",
+        "connection": "close",
+        "server": "nginx",
+        "x-client-ip": "119.139.167.219"
+      },
+      "size": 312,
+      "body": "{\"code\":0,\"data\":{\"check\":11,\"openid\":\"oA0GbjpZFA4huIFFQGHLDpVg51kQ\",\"g_openid\":\"oA0GbjpZFA4huIFFQGHLDpVg51kQ\",\"nickname\":\"米兰的小铁匠\",\"headimgurl\":\"https://pic.finance.qq.com/user/headimg/a4132f9d37fa5abf83d5d624c4eb20a1\",\"reg_time\":\"\",\"fskey\":\"v0b94cc192164b3c18c431b9870b4b2c\",\"status\":0},\"msg\":\"ok\"}\n",
+      "base64": "eyJjb2RlIjowLCJkYXRhIjp7ImNoZWNrIjoxMSwib3BlbmlkIjoib0EwR2JqcFpGQTRodUlGRlFHSExEcFZnNTFrUSIsImdfb3BlbmlkIjoib0EwR2JqcFpGQTRodUlGRlFHSExEcFZnNTFrUSIsIm5pY2tuYW1lIjoi57Gz5YWw55qE5bCP6ZOB5YygIiwiaGVhZGltZ3VybCI6Imh0dHBzOi8vcGljLmZpbmFuY2UucXEuY29tL3VzZXIvaGVhZGltZy9hNDEzMmY5ZDM3ZmE1YWJmODNkNWQ2MjRjNGViMjBhMSIsInJlZ190aW1lIjoiIiwiZnNrZXkiOiJ2MGI5NGNjMTkyMTY0YjNjMThjNDMxYjk4NzBiNGIyYyIsInN0YXR1cyI6MH0sIm1zZyI6Im9rIn0K"
+    },
+    "rules": {
+      "plugin": {
+        "files": null,
+        "url": "whistle.autosave://none/cgi/cgi-bin/login/weixin/login?code=0818Eh100r4ZlQ1AJE300SmN3c48Eh1N&_appName=android&_dev=2112123AC&_devId=6b9371ae0609275c416282857db28b60d3243c1d&_mid=6b9371ae0609275c416282857db28b60d3243c1d&_md5mid=A5E449109D0EC4D4D4D08472D15D190D&_appver=10.5.0&_ifChId=76&_screenW=1080&_screenH=2183&_osVer=12&_ui=B2FD4BA4BE6D889D&_uin=10000&_wxuin=20000&_net=WIFI&__random_suffix=24060&_buildtype=debug&buildtime=2022-09-30+14%3A42%3A16&lang=zh_CN",
+        "not": false,
+        "name": "plugin",
+        "root": "C:\\Users\\王滔\\AppData\\Roaming\\npm\\node_modules\\whistle.autosave",
+        "wildcard": {
+          "preMatch": {},
+          "path": "/",
+          "hasQuery": false,
+          "isExact": false
+        },
+        "isRegExp": false,
+        "protocol": null,
+        "pattern": "*/",
+        "matcher": "whistle.autosave://none",
+        "raw": "* whistle.autosave://none",
+        "isDomain": true,
+        "rawPattern": "*",
+        "lineProps": {},
+        "isTpl": false,
+        "list": [
+          {
+            "files": null,
+            "url": "whistle.autosave://none/cgi/cgi-bin/login/weixin/login?code=0818Eh100r4ZlQ1AJE300SmN3c48Eh1N&_appName=android&_dev=2112123AC&_devId=6b9371ae0609275c416282857db28b60d3243c1d&_mid=6b9371ae0609275c416282857db28b60d3243c1d&_md5mid=A5E449109D0EC4D4D4D08472D15D190D&_appver=10.5.0&_ifChId=76&_screenW=1080&_screenH=2183&_osVer=12&_ui=B2FD4BA4BE6D889D&_uin=10000&_wxuin=20000&_net=WIFI&__random_suffix=24060&_buildtype=debug&buildtime=2022-09-30+14%3A42%3A16&lang=zh_CN",
+            "not": false,
+            "name": "plugin",
+            "root": "C:\\Users\\王滔\\AppData\\Roaming\\npm\\node_modules\\whistle.autosave",
+            "wildcard": {
+              "preMatch": {},
+              "path": "/",
+              "hasQuery": false,
+              "isExact": false
+            },
+            "isRegExp": false,
+            "protocol": null,
+            "pattern": "*/",
+            "matcher": "whistle.autosave://none",
+            "raw": "* whistle.autosave://none",
+            "isDomain": true,
+            "rawPattern": "*",
+            "lineProps": {},
+            "isTpl": false
+          }
+        ]
+      }
+    },
+    "rulesHeaders": {},
+    "version": "2.9.53",
+    "nodeVersion": "20.4.0",
+    "dnsTime": 1689502091799,
+    "requestTime": 1689502091828,
+    "responseTime": 1689502092120,
+    "endTime": 1689502092121
+  }
+]
